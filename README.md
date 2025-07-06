@@ -1,7 +1,7 @@
 <h1 align="center">NAMASKAR 🙏</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com font=Nunito&size=14&pause=1000&color=F70000FF&center=true&vCenter=true&width=600&lines=%F0%9F%8D%87+Raspberry+Pi+Enthusiast+|+%F0%9F%9B%A2%EF%B8%8F+Data+Storyteller+|+%F0%9F%92%BB+Knowledge+Curator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=14&pause=1000&color=F70000FF&center=true&vCenter=true&width=600&lines=%F0%9F%8D%87+Raspberry+Pi+Enthusiast+%7C+%F0%9F%9B%A2%EF%B8%8F+Data+Storyteller+%7C+%F0%9F%92%BB+Knowledge+Curator" alt="Typing SVG" />
 </p>
 
 ---
